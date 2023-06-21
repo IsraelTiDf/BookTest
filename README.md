@@ -19,4 +19,5 @@ Before getting started, make sure you have the following requirements installed 
 - php artisan migrate
 
 **Build:**
+- npm run dev
 - php artisan serve
